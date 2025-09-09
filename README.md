@@ -4,17 +4,15 @@ TutoSymfony is a symfony project that provides a website which presents cooking 
 
 ## Installation
 
-Run makefile 
+From yous terminal WSL in your project (/home/<user>/projets/mon-projet):
 
 ```bash
-make 
+docker compose up -d --build
 ```
 
 ## Usage
 
 ```bash
-make start
-make stop
 ```
 
 ## Contributing
